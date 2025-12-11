@@ -4,7 +4,7 @@ A fully serverless AWS Cloud Development Kit (CDK v2) project that deploys a thr
 
 ## Architecture
 
-![Serverless 3-Tier Architecture](https://gitlab.aws.dev/rwarokar/serverless-3-tier-application/-/raw/main/AWS_Serverless_Three-tier_architecture.png)
+![Serverless 3-Tier Architecture](https://github.com/rishiunix/Serverless-3-tier-app/blob/main/%20serverless-3-tier-application%20Arch.png)
 
 ### Presentation Tier
 - **S3**: Static website hosting
